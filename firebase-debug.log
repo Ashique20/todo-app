@@ -1,0 +1,25 @@
+[debug] [2023-11-11T07:50:58.999Z] ----------------------------------------------------------------------
+[debug] [2023-11-11T07:50:59.002Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Asus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-11-11T07:50:59.003Z] CLI Version:   12.8.1
+[debug] [2023-11-11T07:50:59.004Z] Platform:      win32
+[debug] [2023-11-11T07:50:59.004Z] Node Version:  v18.16.1
+[debug] [2023-11-11T07:50:59.011Z] Time:          Sat Nov 11 2023 13:50:59 GMT+0600 (Bangladesh Standard Time)
+[debug] [2023-11-11T07:50:59.011Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-11T07:50:59.019Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-11T07:50:59.019Z] > authorizing via signed-in user (ashiqurrahman2092003@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\projects\todo-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
